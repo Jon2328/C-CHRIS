@@ -1,0 +1,14 @@
+c:\users\jon\source\repos\Chris\Chris\bin\Debug\Chris.exe.config
+c:\users\jon\source\repos\Chris\Chris\bin\Debug\Chris.exe
+c:\users\jon\source\repos\Chris\Chris\bin\Debug\Chris.pdb
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.csprojResolveAssemblyReference.cache
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Form1.resources
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Properties.Resources.resources
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.csproj.GenerateResource.Cache
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.csproj.CoreCompileInputs.cache
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.exe
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.pdb
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Login.resources
+c:\users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Order.resources
+C:\Users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Sales.resources
+C:\Users\jon\source\repos\Chris\Chris\obj\Debug\Chris.Report.resources
